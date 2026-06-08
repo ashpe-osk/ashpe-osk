@@ -1,4 +1,4 @@
-## Hey there 👋 I'm Oseko
+## Hey there 👋 I'm Ashpe
 I use data and mathematics to make sense of football, the most beautiful game ever played ⚽
 
 ---

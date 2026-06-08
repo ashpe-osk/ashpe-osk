@@ -10,12 +10,15 @@ Open to roles in football analytics and sports data, using data to better unders
 
 ---
 
-### 🧑‍💻 About Me
+### 👨🏿‍💻 About Me
 
 * ⚽ Passionate about football analytics and uncovering the stories hidden in the data
-* 📊 Building projects with football event and tracking data to explore player performance, team tactics, and match dynamics
-* 🧮 Working across statistical modelling, expected goals (xG), expected threat (xT), possession analysis, and predictive analytics
-* 🔭 Applying data visualisation and advanced metrics to player recruitment, scouting, and football decision-making
+* 📊 Building projects with football event and tracking data to explore shot quality, passing networks, heatmaps, and team tactics
+* 🧮 Working across statistical modelling, expected goals (xG), expected threat (xT), Markov chains, possession analysis, and match prediction
+* 🎯 Applying radar plots, clustering, Voronoi diagrams, pitch control, and advanced metrics to player scouting and recruitment
+* 🚻 Exploring off-ball movement, player positioning, physical data, and fitness metrics to understand what happens beyond the ball
+* 💻 Deploying football analytics as interactive web applications using Streamlit
+* 🔧 Building an automated football data pipeline that collects, stores, and updates data from multiple sources for analysis and research
 * 🎬 Analysing video and tagging matches using LongoMatch to connect on-pitch actions with what the data shows
 * 📈 Turning raw datasets into visual stories that make football easier to understand
 * ✍️ Sharing my football analytics work through articles and visualisations on [Medium](https://medium.com/@oskash6) and [Substack](https://substack.com/@oseko8)
@@ -56,9 +59,9 @@ Open to roles in football analytics and sports data, using data to better unders
 **Development & Workflow**
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---

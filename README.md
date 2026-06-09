@@ -55,8 +55,4 @@ Football data analyst focused on the technical side: building models, pipelines,
 
 ---
 
-## Open to Opportunities
-
-Technical analyst, data scientist, or recruitment analytics roles at clubs, analytics companies, or sports tech firms.
-
-[Connect on LinkedIn](https://www.linkedin.com/in/ashpe-ayubu)
+Open to technical analyst, data scientist, or recruitment analytics roles at clubs, analytics companies, or sports tech firms.

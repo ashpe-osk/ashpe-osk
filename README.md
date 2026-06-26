@@ -1,10 +1,11 @@
 <div align="center">
 
-# Ashpe Ayubu
+# Hi, I'm Ashpe
 
-**Football Data Analyst**
+**Aspiring Football Data Analyst**
 
-Building open-source tools that turn football event data into football intelligence.
+Learning by building -- using open football data to develop real analytics tools
+and grow toward professional-level football analysis workflows.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashpe-ayubu)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@oskash6)
@@ -16,9 +17,7 @@ Building open-source tools that turn football event data into football intellige
 
 ## About
 
-I build football analytics tools that sit between raw event data and real football decisions -- recruitment meetings, coaching sessions, performance reviews.
-
-My focus is not on making dashboards look impressive. It is on making football data usable by the people who actually need it.
+I work on football data projects focused on turning match data into useful analysis and insights -- through visualisation, modelling, and clean pipelines. Everything here is a learning project, built seriously.
 
 ---
 
@@ -31,19 +30,19 @@ My focus is not on making dashboards look impressive. It is on making football d
 
 ---
 
-## What I Build
+## What I Work On
 
 **Match Analysis**
 Passing networks, shot maps, xG flow, heatmaps, pitch control, possession value models
 
 **Recruitment and Scouting**
-Player similarity models, clustering and role detection, player profiling, squad composition tools
+Player similarity models, clustering, role detection, player profiling, squad analysis tools
 
 **Expected Metrics and ML**
 xG, xA, xT, match prediction models, team style classification
 
 **Data Engineering**
-Automated ETL pipelines, API integration across providers, PostgreSQL and MongoDB pipelines, data validation and cleaning
+ETL pipelines, event data processing, API integration, PostgreSQL and MongoDB workflows, data cleaning and validation
 
 ---
 
@@ -90,4 +89,4 @@ Automated ETL pipelines, API integration across providers, PostgreSQL and MongoD
 
 ---
 
-If you work in football analytics, sports tech, recruitment, or performance analysis and want to collaborate -- reach out on LinkedIn or follow the work on Medium and Substack.
+If you work in football analytics, sports tech, recruitment, or performance analysis -- reach out via LinkedIn or follow the work on Medium and Substack.

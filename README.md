@@ -1,18 +1,30 @@
-# Hi, I'm Ashpe 👋
+# Ashpe Ayubu
 
-Football data analyst focused on the technical side: building models, pipelines, and tools that make football data useful for coaches and recruitment teams.
+I build football analytics tools -- the kind that sit between raw event data
+and decisions made in recruitment meetings and coaching sessions.
+My focus is on making football data actually usable: clean pipelines,
+honest models, and visuals that communicate rather than decorate.
 
 📩 [LinkedIn](https://www.linkedin.com/in/ashpe-ayubu) · [Medium](https://medium.com/@oskash6) · [Substack](https://substack.com/@oseko8)
 
 ---
 
-## What I Work On
+## Featured Projects
 
-- Visualisation: passing networks, heatmaps, pitch control, Streamlit dashboards
-- Data pipelines: automated collection, storage, and updates across providers
-- Expected metrics: xG, xA, xT, possession models, match prediction
-- Recruitment tools: similarity models, clustering, scouting pipelines
-- Physical data: off-ball movement, positioning, fitness metrics
+| Project | Description |
+|---|---|
+| [AFCON 2023 Final - Passing Analysis](https://github.com/ashpe-osk/afcon2023-final-analysis) | Individual and team passing maps for the AFCON 2023 Final, built on StatsBomb event data using mplsoccer and matplotlib |
+| [AFCON 2023 Final - Match Dashboard](https://github.com/ashpe-osk/football-match-dashboard) | Full match analysis dashboard covering passing networks, shot maps, xG flow, and match statistics in a single figure |
+
+---
+
+## What I Build
+
+- **Match analysis** -- passing networks, shot maps, xG flow, pitch control, heatmaps
+- **Recruitment tools** -- player similarity models, clustering, scouting pipelines
+- **Expected metrics** -- xG, xA, xT, possession and match prediction models
+- **Data pipelines** -- automated collection, storage, and updates across providers
+- **Physical analytics** -- off-ball movement, positioning, fitness metrics
 
 ---
 
@@ -55,4 +67,6 @@ Football data analyst focused on the technical side: building models, pipelines,
 
 ---
 
-Open to technical analyst, data scientist, or recruitment analytics roles at clubs, analytics companies, or sports tech firms.
+If you work in football analytics, sports tech, or recruitment and want to
+talk data -- feel free to reach out on LinkedIn or follow the work on Medium
+and Substack.

@@ -8,10 +8,10 @@ Football data analyst focused on the technical side: building models, pipelines,
 
 ## What I Work On
 
+- Visualisation: passing networks, heatmaps, pitch control, Streamlit dashboards
+- Data pipelines: automated collection, storage, and updates across providers
 - Expected metrics: xG, xA, xT, possession models, match prediction
 - Recruitment tools: similarity models, clustering, scouting pipelines
-- Data pipelines: automated collection, storage, and updates across providers
-- Visualisation: passing networks, heatmaps, pitch control, Streamlit dashboards
 - Physical data: off-ball movement, positioning, fitness metrics
 
 ---

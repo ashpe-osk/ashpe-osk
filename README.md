@@ -32,22 +32,22 @@ I work on football data projects focused on turning match data into useful analy
 
 ## What I Work On
 
-**Match Analysis**
+**Match Analysis** - 
 Passing networks, shot maps, xG flow, heatmaps, pitch control, possession value models
 
-**Recruitment and Scouting**
+**Recruitment and Scouting** - 
 Player similarity models, clustering, role detection, player profiling, squad analysis tools
 
-**Expected Metrics and ML**
+**Expected Metrics and ML** - 
 xG, xA, xT, match prediction models, team style classification
 
 **Statistical Modelling**
 Probability models, regression, spatial analysis, tactical metrics derivation, match simulation
 
-**Data Engineering**
+**Data Engineering** - 
 ETL pipelines, event data processing, API integration, PostgreSQL and MongoDB workflows, data cleaning and validation
 
-**AI Applications**
+**AI Applications** - 
 Retrieval-augmented generation, conversational agents, vector search, football knowledge assistants
 
 ---
@@ -56,9 +56,9 @@ Retrieval-augmented generation, conversational agents, vector search, football k
 
 | Category | Tools |
 |:--|:--|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Data and ML** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **AI and Tools** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square) ![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square) |
+| **Main Languages & Querying** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Data & ML** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **AI & Tools** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square) ![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square) |
 | **Web Applications** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 | **Football Data** | ![StatsBomb](https://img.shields.io/badge/StatsBomb-D00000?style=flat-square) ![Wyscout](https://img.shields.io/badge/Wyscout-003399?style=flat-square) ![mplsoccer](https://img.shields.io/badge/mplsoccer-1A1A1A?style=flat-square) ![LongoMatch](https://img.shields.io/badge/LongoMatch-FF6600?style=flat-square) |
 | **Visualisation** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |

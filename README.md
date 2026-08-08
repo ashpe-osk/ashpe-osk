@@ -32,95 +32,69 @@ I work on football data projects focused on turning match data into useful analy
 
 ## What I Work On
 
-**Match Analysis** -
+**Match Analysis**
 Passing networks, shot maps, xG flow, heatmaps, pitch control, possession value models
 
-**Recruitment and Scouting** -
+**Recruitment and Scouting**
 Player similarity models, clustering, role detection, player profiling, squad analysis tools
 
-**Expected Metrics and ML** -
+**Expected Metrics and ML**
 xG, xA, xT, match prediction models, team style classification
 
-**Statistical Modelling** -
+**Statistical Modelling**
 Probability models, regression, spatial analysis, tactical metrics derivation, match simulation
 
-**Data Engineering** - 
+**Data Engineering**
 ETL pipelines, event data processing, API integration, PostgreSQL and MongoDB workflows, data cleaning and validation
 
-**AI Applications** - 
+**AI Applications**
 Retrieval-augmented generation, conversational agents, vector search, football knowledge assistants
 
 ---
 
 ## Stack
 
-<details>
-<summary><b>Languages</b></summary>
-<br>
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>Data and ML</b></summary>
-<br>
+**Data and ML**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>AI and Tools</b></summary>
-<br>
+**AI and Tools**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
 ![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square)
 
-</details>
-
-<details>
-<summary><b>Web Applications</b></summary>
-<br>
+**Web Applications**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>Football Data</b></summary>
-<br>
+**Football Data**
 
 ![StatsBomb](https://img.shields.io/badge/StatsBomb-D00000?style=flat-square)
 ![Wyscout](https://img.shields.io/badge/Wyscout-003399?style=flat-square)
 ![mplsoccer](https://img.shields.io/badge/mplsoccer-1A1A1A?style=flat-square)
 ![LongoMatch](https://img.shields.io/badge/LongoMatch-FF6600?style=flat-square)
 
-</details>
-
-<details>
-<summary><b>Visualisation</b></summary>
-<br>
+**Visualisation**
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>Databases & Deployment</b></summary>
-<br>
+**Databases & Deployment**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -128,25 +102,15 @@ Retrieval-augmented generation, conversational agents, vector search, football k
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>Notebooks & Environments</b></summary>
-<br>
+**Notebooks & Environments**
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>Version Control</b></summary>
-<br>
+**Version Control**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-</details>
 
 ---
 

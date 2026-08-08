@@ -72,4 +72,4 @@ Retrieval-augmented generation, conversational agents, vector search, football k
 
 ---
 
-If you work in football analytics, sports tech, recruitment, or performance analysis -- reach out via LinkedIn or follow the work on Medium and Substack.
+If you work in football analytics, sports tech, recruitment, or performance analysis -- reach out via LinkedIn or follow my work on Medium and Substack.

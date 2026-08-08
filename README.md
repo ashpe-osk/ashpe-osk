@@ -68,7 +68,7 @@ Retrieval-augmented generation, conversational agents, vector search, football k
 
 ---
 
-> Good football analytics does not add complexity. It removes confusion.
+> ***"As someone who loves football, I want to give something back to the game and help it develop further." ~ Franz Beckenbauer***
 
 ---
 

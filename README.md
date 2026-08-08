@@ -24,7 +24,7 @@ I work on football data projects focused on turning match data into useful analy
 
 | Project | What it does |
 |:--|:--|
-| [Debra -- Football Analytics RAG Chatbot](https://github.com/ashpe-osk/football-analytics-rag) | A RAG-powered football analytics chatbot that lowers the barrier to entry into football analytics by teaching football concepts, terminology, match events, and data interpretation. Built with LangChain, Pinecone, and Groq. [Live Demo](https://askdebra.vercel.app) |
+| [Debra -- Football Analytics RAG Chatbot](https://github.com/ashpe-osk/football-analytics-rag) | A RAG-powered football analytics chatbot that lowers the barrier to entry into football analytics by teaching football concepts, terminology, match events, and data interpretation. [Live Demo](https://askdebra.vercel.app) |
 | [AFCON 2023 Final -- Passing Analysis](https://github.com/ashpe-osk/afcon2023-final-analysis) | Individual and team passing maps for the AFCON 2023 Final. Built on StatsBomb event data with `mplsoccer` and `matplotlib`. |
 | [AFCON 2023 Final -- Match Dashboard](https://github.com/ashpe-osk/football-match-dashboard) | End-to-end match analysis dashboard: passing networks, shot maps, xG flow, and team statistics in a single publication-ready figure. Template for any StatsBomb-covered match. |
 

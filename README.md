@@ -32,22 +32,22 @@ I work on football data projects focused on turning match data into useful analy
 
 ## What I Work On
 
-**Match Analysis**
+**Match Analysis** -
 Passing networks, shot maps, xG flow, heatmaps, pitch control, possession value models
 
-**Recruitment and Scouting**
+**Recruitment and Scouting** -
 Player similarity models, clustering, role detection, player profiling, squad analysis tools
 
-**Expected Metrics and ML**
+**Expected Metrics and ML** -
 xG, xA, xT, match prediction models, team style classification
 
-**Statistical Modelling**
+**Statistical Modelling** -
 Probability models, regression, spatial analysis, tactical metrics derivation, match simulation
 
-**Data Engineering**
+**Data Engineering** -
 ETL pipelines, event data processing, API integration, PostgreSQL and MongoDB workflows, data cleaning and validation
 
-**AI Applications**
+**AI Applications** -
 Retrieval-augmented generation, conversational agents, vector search, football knowledge assistants
 
 ---

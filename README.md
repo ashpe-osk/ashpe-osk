@@ -24,6 +24,7 @@ I work on football data projects focused on turning match data into useful analy
 
 | Project | What it does |
 |:--|:--|
+| [Debra -- Football Analytics RAG Chatbot](https://github.com/ashpe-osk/football-analytics-rag) | A RAG-powered football analytics chatbot that lowers the barrier to entry into football analytics by teaching football concepts, terminology, match events, and data interpretation. Built with LangChain, Pinecone, and Groq. [Live Demo](https://askdebra.vercel.app) |
 | [AFCON 2023 Final -- Passing Analysis](https://github.com/ashpe-osk/afcon2023-final-analysis) | Individual and team passing maps for the AFCON 2023 Final. Built on StatsBomb event data with `mplsoccer` and `matplotlib`. |
 | [AFCON 2023 Final -- Match Dashboard](https://github.com/ashpe-osk/football-match-dashboard) | End-to-end match analysis dashboard: passing networks, shot maps, xG flow, and team statistics in a single publication-ready figure. Template for any StatsBomb-covered match. |
 
@@ -40,8 +41,14 @@ Player similarity models, clustering, role detection, player profiling, squad an
 **Expected Metrics and ML**
 xG, xA, xT, match prediction models, team style classification
 
+**Statistical Modelling**
+Probability models, regression, spatial analysis, tactical metrics derivation, match simulation
+
 **Data Engineering**
 ETL pipelines, event data processing, API integration, PostgreSQL and MongoDB workflows, data cleaning and validation
+
+**AI Applications**
+Retrieval-augmented generation, conversational agents, vector search, football knowledge assistants
 
 ---
 
@@ -59,6 +66,13 @@ ETL pipelines, event data processing, API integration, PostgreSQL and MongoDB wo
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**AI and Tools**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 **Football Data**
 

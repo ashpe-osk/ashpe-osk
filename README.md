@@ -4,7 +4,7 @@
 
 **Aspiring Football Data Analyst**
 
-I use data and math to explore football.
+I use math and data to explore football.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashpe-ayubu)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@oskash6)

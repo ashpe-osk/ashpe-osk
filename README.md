@@ -41,7 +41,7 @@ Player similarity models, clustering, role detection, player profiling, squad an
 **Expected Metrics and ML** - 
 xG, xA, xT, match prediction models, team style classification
 
-**Statistical Modelling**
+**Statistical Modelling** -
 Probability models, regression, spatial analysis, tactical metrics derivation, match simulation
 
 **Data Engineering** - 

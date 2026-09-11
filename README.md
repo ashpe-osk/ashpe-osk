@@ -16,7 +16,7 @@ I use math and data to explore football.
 
 ## About
 
-I work on football data projects focused on turning match data into useful analysis and insights -- through visualisation, modelling, and clean pipelines. Everything here is a learning project, built seriously.
+I work on football data projects focused on turning footbll data into useful analysis and insights -- through visualisation, modelling, and clean pipelines. 
 
 ---
 
